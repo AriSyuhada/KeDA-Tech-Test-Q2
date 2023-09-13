@@ -1,0 +1,41 @@
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 5rem;
+  background: transparent;
+  z-index: 99;
+}
+.navbar-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0;
+}
+.logo {
+  width: 3rem;
+  height: 3rem;
+}
+.navbar-button {
+  list-style: none;
+  font-size: larger;
+  font-weight: bolder;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+.home {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+.login-button {
+  background-color: #f87296;
+  color: #ffffff;
+  padding: 0.9rem 2rem;
+  border-radius: 2rem;
+}

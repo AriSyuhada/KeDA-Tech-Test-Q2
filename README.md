@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+
+I'm using several dependencies for this project:
+```
+  ...
+  - "sass": "^1.66.1",
+  - "react-router-dom": "^6.15.0",
+  ...
+```
+### SASS
+
+I choose this dependency in order to easily maintain the style of the website.
+SASS provides various features that didn't exist in CSS. This pre-processor could handle variables, nested rules, built-in function, .etc
+
+### React Router DOM
+
+This dependency or library is used to simulate and render components based on the URL.
+This library is used to build single-page applications. It prevents refreshing website when URL path is accessed, instead it renders components that based by URL path.
+
 ## Available Scripts
 
 In the project directory, you can run:
