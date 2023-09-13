@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access this app by this link [Start-App](https://ke-da-tech-test-q2.vercel.app/).
 
 ## Dependencies
 
